@@ -1,1 +1,0 @@
-webpackJsonp([1],{303:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u=n(196);t.default=function(e){return{path:"counter",getComponent:function(t,c){n.e(3,function(t){n(550);var r=n(302).default,o=n(195).default;(0,u.injectReducer)(e,{key:"counter",reducer:o}),c(null,r)})}}}}});
